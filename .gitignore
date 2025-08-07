@@ -1,0 +1,22 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Build results
+*.dll
+*.exe
+
+# VS Code
+.vscode/
+
+# User-specific files
+*.swp
+
+# SQLite DB
+*.db
+*.db-journal
+
+# Others
+.env
